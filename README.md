@@ -1,12 +1,49 @@
-# React + Vite
+# Annapoorneswari Restaurant Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the source code for the official website of **Veggies Inn Annapoorneswari Vegetarian Restaurant**, located in Thrissur, Kerala.
 
-Currently, two official plugins are available:
+The project is developed with full consent from the restaurant’s owners and aims to deliver a clean, responsive, mobile-first web experience for showcasing the restaurant's offerings.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> ⚠️ **Note**: This is a personal side project. Development is being carried out gradually during available time.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 Project Scope – Phase One
+
+The initial version of the website focuses on the frontend and includes the following key sections:
+
+1. **Home Page**
+2. **About Page**
+3. **Menu Section**
+4. **Contact Section**
+
+---
+
+## 🛠 Tech Stack
+
+- **React.js** – Component-based JavaScript framework
+- **Tailwind CSS** – Utility-first CSS framework for styling
+- **React Router** – For internal navigation
+- **Vercel** – Hosting platform (to be used in production)
+
+---
+
+## 🚫 Contributions
+
+At this stage, **external contributions are not accepted**. This is a solo development project managed privately by the developer.
+
+---
+
+## ⚖️ License
+
+This project is licensed under the  
+**Creative Commons Legal Code**  
+For more information, see: [LICENSE](LICENSE)
+
+---
+
+## 🌐 Deployment
+
+The site will be hosted publicly using [**Vercel**](https://vercel.com) upon initial completion.
+
+---
