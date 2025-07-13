@@ -14,6 +14,11 @@ export default {
         highlight: '#f9a825',
         dark: '#212121',
       },
+      fontFamily: {
+        heading: ['Cinzel', 'serif'],
+        subheading: ['Playfair Display', 'serif'],
+        body: ['Inter', 'sans-serif'],
+      },
     },
   },
   plugins: [],
